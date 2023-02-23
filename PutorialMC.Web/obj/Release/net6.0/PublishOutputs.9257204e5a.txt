@@ -1,7 +1,0 @@
-C:\Users\Diego\source\repos\PutorialMC.Web\PutorialMC.Web\obj\Release\net6.0\PubTmp\Out\PutorialMC.Web.exe
-C:\Users\Diego\source\repos\PutorialMC.Web\PutorialMC.Web\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
-C:\Users\Diego\source\repos\PutorialMC.Web\PutorialMC.Web\obj\Release\net6.0\PubTmp\Out\appsettings.json
-C:\Users\Diego\source\repos\PutorialMC.Web\PutorialMC.Web\obj\Release\net6.0\PubTmp\Out\PutorialMC.Web.dll
-C:\Users\Diego\source\repos\PutorialMC.Web\PutorialMC.Web\obj\Release\net6.0\PubTmp\Out\PutorialMC.Web.deps.json
-C:\Users\Diego\source\repos\PutorialMC.Web\PutorialMC.Web\obj\Release\net6.0\PubTmp\Out\PutorialMC.Web.runtimeconfig.json
-C:\Users\Diego\source\repos\PutorialMC.Web\PutorialMC.Web\obj\Release\net6.0\PubTmp\Out\PutorialMC.Web.pdb
